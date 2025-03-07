@@ -3,3 +3,5 @@
 /tmp/*
 /.idea
 Gemfile.lock
+hello_pb.rb
+hello_services_pb.rb
